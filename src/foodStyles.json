@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "American",
+      "image": "https://media.istockphoto.com/photos/delicious-homemade-hamburger-and-french-fries-picture-id1254672762?b=1&k=20&m=1254672762&s=170667a&w=0&h=nKrG40G2jj9O8wzJ8wDD2zmUKNp00mcdVWK_f_zixug=",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Italian",
+      "image": "https://www.englishclub.com/images/vocabulary/food/italian/italian-food-640.jpg",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Thai and Chinese",
+      "image": "https://previews.123rf.com/images/artpritsadee/artpritsadee1609/artpritsadee160900208/65002236-tom-yam-kong-or-tom-yum-tom-yam-is-a-spicy-clear-soup-typical-in-thailand-and-no-1-thai-dish-cuisine.jpg",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Mexican",
+      "image": "https://missionfoods.com/uploads/Mexican-Street-Corn-Chicken-Tacos.jpg",
+      "location": "A Secret Laboratory"
+    }
+  ]
+  
